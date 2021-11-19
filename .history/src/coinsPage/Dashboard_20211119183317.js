@@ -24,7 +24,7 @@ export default function Dashboard() {
           style={{ color: "black" }}
           variant="outlined"
         >
-          <a href='https://crypto-admin-page.netlify.app/'>Go to Dashboard via here</a>
+          <a href=''>Go to Dashboard via here</a>
         </Button>
         <section>
           <div class="square_box box_three"></div>
